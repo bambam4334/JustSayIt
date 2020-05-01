@@ -28,18 +28,12 @@
 <h2>รายชื่อสมาชิก</h2>
 รหัสนักศึกษา  | ชื่อ - นามสกุล  |  Github | 
 ----- | ----- | ----- | 
-62070153 | นายภูวเดช พงศวุฒิเศรษฐ | [Phuwadech153](https://github.com/Phuwadech153) | 
-62070205 | นางสาวสุปวีณ์ ผาสุกสมหวัง | [bambam4334](https://github.com/bambam4334) |
-62070207 | นางสาวสุภิญญา เครือสุคนธ์ | [aynipus](https://github.com/aynipus) | 
+62070153 | นายภูวเดช พงศวุฒิเศรษฐ | [Phuwadech153] (https://github.com/Phuwadech153) | 
+62070205 | นางสาวสุปวีณ์ ผาสุกสมหวัง | [bambam4334] (https://github.com/bambam4334) |
+62070207 | นางสาวสุภิญญา เครือสุคนธ์ | [aynipus] (https://github.com/aynipus) | 
 
 <h2><a href ="https://www.youtube.com/watch?v=_f1pt2pwZDs&t=2s"> Youtube </a></h2>
-รหัสนักศึกษา  | ชื่อ - นามสกุล  |  Github | 
------ | ----- | ----- |
-62070010 | นางสาวกันยา แก้วเหล็ก | [kanya26](https://github.com/Kanya26) |
-62070043 | นางสาวชนิกานต์ ตันศิลป์ | [lookpear72](https://github.com/lookpear72) |
-62070118 | นางสาวปัณรส ดำรงศักดิ์ | [fahpunn](https://github.com/fahpunn) |
-62070189 | นางสาวศุภิสราพร มงคลนำ | [supisaraporn1234](https://github.com/supisaraporn1234) |
-62070205 | นางสาวสุปวีณ์ ผาสุกสมหวัง | [bambam4334](https://github.com/bambam4334) |
+
 
 
 
