@@ -12,4 +12,5 @@
 <br>
 </p> 
 <h2>วิธีการใช้งาน</h2>
-
+* ติดตั้งแอพลิเคชั่น <img src="https://imgur.com/iFFErvu"><br>1
+* item 2 
