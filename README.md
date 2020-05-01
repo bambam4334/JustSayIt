@@ -10,7 +10,7 @@
  <li>ฝึกการทำงานเป็นกลุ่ม</li>
 <br>
 </p>
-<h2>วิธีการใช้งาน</h2> <img src="https://i.imgur.com/LXjOElt.png">
+<h2>วิธีการใช้งาน</h2> <img src="https://i.imgur.com/wdCLrrT.png">
 <ol>
  <br>
 <h3><li>ติดตั้งแอพลิเคชั่น BluetoothControl for Arduino</li></h3>
