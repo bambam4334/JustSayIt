@@ -26,7 +26,7 @@
 <br><img src="https://i.imgur.com/dSGHQWP.png"><br>
 </ol> 
 <h2>รายชื่อสมาชิก</h2>
-รหัสนักศึกษา  | ชื่อ - นามสกุล  |  Github | 
+รหัสนักศึกษา  | ชื่อ - นามสกุล  |  Github 
 ----- | ----- | ----- | 
 62070153 | นายภูวเดช พงศวุฒิเศรษฐ | [Phuwadech153] (https://github.com/Phuwadech153) | 
 62070205 | นางสาวสุปวีณ์ ผาสุกสมหวัง | [bambam4334] (https://github.com/bambam4334) |
