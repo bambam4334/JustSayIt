@@ -29,8 +29,8 @@
 รหัสนักศึกษา  | ชื่อ - นามสกุล  |  Github | 
 ----- | ----- | ----- |
 62070153 | นายภูวเดช พงษ์วุฒิเศรษฐ | [Phuwadech153](https://github.com/Phuwadech153) |
-62070205| นางสาวสุปวีณ์ ผาสุกสมหวัง | [kanya26](https://github.com/bambam4334) |
-62070207 | นางสาวสุภิญญา เครือสุคนธ์ | [fahpunn](https://github.com/aynipus) |
+62070205| นางสาวสุปวีณ์ ผาสุกสมหวัง | [bambam4334](https://github.com/bambam4334) |
+62070207 | นางสาวสุภิญญา เครือสุคนธ์ | [aynious](https://github.com/aynipus) |
 
 <h2><a href ="https://www.youtube.com/watch?v=_f1pt2pwZDs&t=2s"> Youtube </a>
 </h2>
