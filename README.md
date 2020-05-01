@@ -11,6 +11,10 @@
  <li>ช่วยประหยัดเวลา</li>
 <br>
 </p> 
-<h2>วิธีการใช้งาน</h2>
-* ติดตั้งแอพลิเคชั่น <img src="https://imgur.com/iFFErvu"><br>1
-* item 2 
+<ol>ผลลัพธ์ก็จะออกมา คือ
+ <br>
+<li>ติดตั้งแอพลิเคชั่น BluetoothControl for Arduino</li>
+<br><img src="https://i.imgur.com/iFFErvu.jpg">
+<li>Biewต้องจ่ายเงินจำนวน 15 บาท</li>
+<li>Bobต้องจ่ายเงินจำนวน 25 บาท</li>
+</ol> 
