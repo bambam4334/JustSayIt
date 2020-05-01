@@ -29,10 +29,11 @@
 <h2>รายชื่อสมาชิก</h2>
 <br>
 รหัสนักศึกษา  | ชื่อ - นามสกุล  |  Github | 
------ | ----- | ----- |
-62070153 | นายภูวเดช พงศวุฒิเศรษฐ | [Phuwadech153](https://github.com/Phuwadech153) |
-62070205   | นางสาวสุปวีณ์ ผาสุกสมหวัง | [bambam4334](https://github.com/bambam4334) |
-62070207 | นางสาวสุภิญญา เครือสุคนธ์ | [aynipus](https://github.com/aynipus) |
+<br>
+----- | ----- | ----- |<br>
+62070153 | นายภูวเดช พงศวุฒิเศรษฐ | [Phuwadech153](https://github.com/Phuwadech153) | <br>
+62070205   | นางสาวสุปวีณ์ ผาสุกสมหวัง | [bambam4334](https://github.com/bambam4334) |<br>
+62070207 | นางสาวสุภิญญา เครือสุคนธ์ | [aynipus](https://github.com/aynipus) |<br>
 
 <h2><a href ="https://www.youtube.com/watch?v=_f1pt2pwZDs&t=2s"> Youtube </a>
 </h2>
