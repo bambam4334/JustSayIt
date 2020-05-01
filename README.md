@@ -24,7 +24,7 @@
 <h3><li>กดปุ่มต่างๆที่ต้องการเปิดปิดไฟ ตามใจชอบ</li></h3>
 <br><img src="https://i.imgur.com/dSGHQWP.png"><br>
 </ol> 
-<h2>รายชื่อสมาชิก<img src="https://i.imgur.com/DyvaPWi.png"></h2>
+<h2>รายชื่อสมาชิก<img src="https://i.imgur.com/cj8nXX1.png"></h2>
 
 รหัสนักศึกษา  | ชื่อ - นามสกุล  |  Github | 
 ----- | ----- | ----- |
