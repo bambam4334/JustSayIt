@@ -19,7 +19,7 @@
 <h3><li>ทำการเชื่อม Bluetooth กับ HC-06 และเข้าไปยังแอพลิเคชั่น</li></h3>
 <br><img src="https://i.imgur.com/IVmLu90.png"><br>
 <h3><li>กดด้านบนเปลี่ยนเป็น HC-06 </li></h3>
-<br><img src="">https://i.imgur.com/4RDiwPO.png<br>
+<br><img src="https://i.imgur.com/4RDiwPO.png"><br>
 <h3><li>กดปุ่ม Connection </li></h3>
 <br><img src="https://i.imgur.com/VC9oBFm.png"><br>
 <h3><li>กดปุ่มต่างๆที่ต้องการเปิดปิดไฟ ตามใจชอบ</li></h3>
