@@ -15,9 +15,9 @@
 <ol>
  <br>
 <h3><li>ติดตั้งแอพลิเคชั่น BluetoothControl for Arduino</li></h3>
-<br><img src="https://i.imgur.com/iFFErvu.jpg"><br>
+<br><img src="https://i.imgur.com/YNzI5Yp.png"><br>
 <h3><li>ทำการเชื่อม Bluetooth กับ HC-06 และเข้าไปยังแอพลิเคชั่น</li></h3>
-<br><img src="https://i.imgur.com/LTZnQGn.jpg"><br>
+<br><img src="https://i.imgur.com/MUVJ382.png"><br>
 <h3><li>กดด้านบนเปลี่ยนเป็น HC-06 </li></h3>
 <br><img src="https://i.imgur.com/LYQE5rA.png"><br>
 <br><img src="https://i.imgur.com/BrURKPf.jpg"><br>
