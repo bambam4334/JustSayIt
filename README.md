@@ -30,8 +30,7 @@
 <h2><a href ="https://www.youtube.com/watch?v=_f1pt2pwZDs&t=2s"> Youtube </a>
 </h2>
 
-<h2>รายชื่อสมาชิก</h2>
-<br>
+
 รหัสนักศึกษา  | ชื่อ - นามสกุล  |  Github | 
 ----- | ----- | ----- |
 62070005 | นายกฤษกร แก้วทองสวน | [9soybad](https://github.com/9soybad) |
