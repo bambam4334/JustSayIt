@@ -10,11 +10,14 @@
  <li>ช่วยให้ผู้พิการสามารถพึ่งพาตัวเองได้</li>
  <li>ช่วยประหยัดเวลา</li>
 <br>
-</p> 
-<ol>ผลลัพธ์ก็จะออกมา คือ
+</p>
+<h2>วิธีการใช้งาน</h2>
+<ol>
  <br>
-<li>ติดตั้งแอพลิเคชั่น BluetoothControl for Arduino</li>
-<br><img src="https://i.imgur.com/iFFErvu.jpg">
-<li>Biewต้องจ่ายเงินจำนวน 15 บาท</li>
-<li>Bobต้องจ่ายเงินจำนวน 25 บาท</li>
+<h3><li>ติดตั้งแอพลิเคชั่น BluetoothControl for Arduino</li></h3>
+<br><img src="https://i.imgur.com/iFFErvu.jpg"><br>
+<h3><li>ทำการเชื่อม Bluetooth กับ HC-06 และเข้าไปยังแอพลิเคชั่น</li></h3>
+<br><img src="https://i.imgur.com/LTZnQGn.jpg"><br>
+<h3><li>กดด้านบนเปลี่ยนเป็น HC-06</li></h3>
+<br><img src="https://i.imgur.com/WscRw7I.jpg"><br>
 </ol> 
