@@ -9,6 +9,7 @@
 </li>
  <li>ช่วยให้ผู้พิการสามารถพึ่งพาตัวเองได้</li>
  <li>ช่วยประหยัดเวลา</li>
+ <li>ฝึกการทำงานเป็นกลุ่ม</li>
 <br>
 </p>
 <h2>วิธีการใช้งาน</h2>
@@ -26,12 +27,11 @@
 <br><img src="https://i.imgur.com/dSGHQWP.png"><br>
 </ol> 
 <h2>รายชื่อสมาชิก</h2>
-รหัสนักศึกษา  | ชื่อ - นามสกุล  |  Github 
------ | ----- | ----- | 
-62070153 | นายภูวเดช พงศวุฒิเศรษฐ | [Phuwadech153](https://github.com/Phuwadech153) 
-| 62070205 | นางสาวสุปวีณ์ ผาสุกสมหวัง | [bambam4334](https://github.com/bambam4334) 
-| 62070207 | นางสาวสุภิญญา เครือสุคนธ์ | [aynipus](https://github.com/aynipus) | 
-
+<a href ="https://github.com/Phuwadech153"> 62070153 นายภูวเดช พงศวุฒิเศรษฐ  </a>
+<br>
+<a href ="https://github.com/bambam4334"> 62070205  นางสาวสุปวีณ์ ผาสุกสมหวัง </a>
+<br>   
+<a href ="https://github.com/aynipus"> 62070207  นางสาวสุภิญญา เครือสุคนธ์ </a>
 
 <h2><a href ="https://www.youtube.com/watch?v=_f1pt2pwZDs&t=2s"> Youtube </a></h2>
 
