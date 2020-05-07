@@ -23,6 +23,13 @@
 <h3><li>กดปุ่มต่างๆที่ต้องการเปิดปิดไฟ ตามใจชอบ</li></h3>
 <br><img src="https://i.imgur.com/dSGHQWP.png"><br>
 </ol> 
+<h2>รายชื่อสมาชิก<img src="https://i.imgur.com/cj8nXX1.png"></h2>
+
+รหัสนักศึกษา  | ชื่อ - นามสกุล  |  Github | 
+----- | ----- | ----- |
+62070153 | นายภูวเดช พงษ์วุฒิเศรษฐ | [Phuwadech153](https://github.com/Phuwadech153) |
+62070205| นางสาวสุปวีณ์ ผาสุกสมหวัง | [bambam4334](https://github.com/bambam4334) |
+62070207 | นางสาวสุภิญญา เครือสุคนธ์ | [aynipus](https://github.com/aynipus) |
 
 
  ชื่อ    | นามสกุล |
