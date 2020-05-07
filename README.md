@@ -13,12 +13,10 @@
 <h2>วิธีการใช้งาน<img src="https://i.imgur.com/aLdnEQ0.png"></h2> 
 <ol>
  <br>
-<h3><li>ติดตั้งแอพลิเคชั่น BluetoothControl for Arduino</li></h3>
+<h3><li>ติดตั้งแอพลิเคชั่น Bluetooth Control for Arduino</li></h3>
 <br><img src="https://i.imgur.com/d7rmeM4.png"><br>
 <h3><li>ทำการเชื่อม Bluetooth กับ HC-06 และเข้าไปยังแอพลิเคชั่น</li></h3>
 <br><img src="https://i.imgur.com/IVmLu90.png"><br>
-<h3><li>กดด้านบนเปลี่ยนเป็น HC-06 </li></h3>
-<br><img src="https://i.imgur.com/4RDiwPO.png"><br>
 <h3><li>กดปุ่ม Connection </li></h3>
 <br><img src="https://i.imgur.com/VC9oBFm.png"><br>
 <h3><li>กดปุ่มต่างๆที่ต้องการเปิดปิดไฟ ตามใจชอบ</li></h3>
@@ -30,7 +28,7 @@
 ----- | ----- | ----- |
 62070153 | นายภูวเดช พงษ์วุฒิเศรษฐ | [Phuwadech153](https://github.com/Phuwadech153) |
 62070205| นางสาวสุปวีณ์ ผาสุกสมหวัง | [bambam4334](https://github.com/bambam4334) |
-62070207 | นางสาวสุภิญญา เครือสุคนธ์ | [aynious](https://github.com/aynipus) |
+62070207 | นางสาวสุภิญญา เครือสุคนธ์ | [aynipus](https://github.com/aynipus) |
 
 <h2><a href ="https://youtu.be/Lb8MpFzrv14"> Youtube </a>
 </h2>
